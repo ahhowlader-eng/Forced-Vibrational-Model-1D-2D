@@ -160,7 +160,7 @@ np.random.seed(<integer>)
 * Vectorization or GPU acceleration (CuPy / JAX)
 * Cluster connectivity analysis
 * Phonon DOS & spectral function extraction
-* Export to LAMMPS / VASP formats
+* Export to MD / DFT simulation software formats
 
 
 ## Publications
